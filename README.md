@@ -17,3 +17,26 @@ AI/NLP (if used for smart replies)
 
 # Usage 
 
+Press the global shortcut Ctrl + Shift + M anytime to:
+
+Fetch latest unread emails
+Generate concise summaries
+View key highlights from each message
+
+# 📁 Folder Structure (Update as needed)
+
+MailAssistant/
+│
+├── config.py         # Configuration and credentials
+├── mail_assistant.py # Main logic
+├── summarizer.py     # Summarization module
+├── README.md         # This file
+└── requirements.txt  # Dependencies
+
+
+# 🤝 Contributing
+Contributions are welcome! Please read the contributing guidelines before submitting a PR.
+
+# 📄 License
+This project is open-source and available under the MIT License .
+
