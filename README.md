@@ -19,19 +19,13 @@ AI/NLP (if used for smart replies)
 
 Press the global shortcut Ctrl + Shift + M anytime to:
 
-Fetch latest unread emails
-Generate concise summaries
-View key highlights from each message
+-Fetch latest unread emails
+-Generate concise summaries
+-View key highlights from each message
 
 # 📁 Folder Structure (Update as needed)
 
-MailAssistant/
-│
-├── config.py         # Configuration and credentials
-├── mail_assistant.py # Main logic
-├── summarizer.py     # Summarization module
-├── README.md         # This file
-└── requirements.txt  # Dependencies
+![image](https://github.com/user-attachments/assets/1f1e29dd-23b5-4e26-9f7f-73df18a9213c)
 
 
 # 🤝 Contributing
