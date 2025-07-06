@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 # Paste your Gemini API key here
-genai.configure(api_key="AIzaSyBjqHsN0hjmVNmCiQdiPNsgYzbsihoY3EU")  # Replace with your real key
+genai.configure(api_key="YOUR_GEMINI_API_KEY")  # Replace with your real key
 
 def summarize_email(subject, body):
     prompt = f"""You are an intelligent assistant. Given the subject and body of an email newsletter, do the following:
