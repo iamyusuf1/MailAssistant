@@ -19,9 +19,9 @@ AI/NLP (if used for smart replies)
 
 Press the global shortcut Ctrl + Shift + M anytime to:
 
--Fetch latest unread emails
--Generate concise summaries
--View key highlights from each message
+- Fetch latest unread emails
+- Generate concise summaries
+- View key highlights from each message
 
 # 📁 Folder Structure (Update as needed)
 
